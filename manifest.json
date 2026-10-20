@@ -1,0 +1,25 @@
+{
+  "name": "Steel Fang Tanks",
+  "short_name": "Steel Fang",
+  "description": "Top-down tank battle by Anay Tripathi. Lead AI wingmen, call in air strikes, upgrade between waves and beat the Behemoth boss. Play solo, 2-player co-op or 2-player versus.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#12140e",
+  "theme_color": "#12140e",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [
+    { "src": "screenshot-1.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "Squad fighting through the volcanic sector" },
+    { "src": "screenshot-2.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "Behemoth boss battle" },
+    { "src": "screenshot-3.png", "sizes": "1080x1920", "type": "image/png", "label": "Main menu with tank classes and modes" }
+  ]
+}
